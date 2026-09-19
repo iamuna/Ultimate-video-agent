@@ -8,7 +8,7 @@ DATA_DIR = ROOT / "data"
 CACHE_DIR = ROOT / "cache"
 OUTPUT_DIR = ROOT / "output"
 TEMP_DIR = ROOT / "temp"
-SETTINGS_FILE = DATA_DIR / "settings.json"
+SETTINGS_FILE = DATA_DIR / "clipper_settings.json"
 
 DEFAULT_SETTINGS = {
     "whisper_model": "small",
