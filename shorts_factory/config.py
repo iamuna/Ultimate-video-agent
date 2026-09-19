@@ -8,7 +8,7 @@ DATA_DIR = ROOT / "data"
 INPUT_DIR = ROOT / "input"
 OUTPUT_DIR = ROOT / "output"
 TEMP_DIR = ROOT / "temp"
-SETTINGS_FILE = DATA_DIR / "settings.json"
+SETTINGS_FILE = DATA_DIR / "generation_settings.json"
 DEFAULT_VIDEO_WORKFLOW = ROOT / "workflows" / "wan22_5b_t2v_api.json"
 
 DEFAULT_SETTINGS = {
