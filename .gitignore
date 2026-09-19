@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.idea/
+.vscode/
+
+data/
+cache/
+temp/
+output/
+input/
+vendor/
+
+*.part
+*.log
